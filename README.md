@@ -1,2 +1,2 @@
 # Anti-Debugger
-C++ Anti Debugger detecting the interference of an external program.
+Very simple C++ Anti Debugger detecting debugging by an external program.
